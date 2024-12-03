@@ -1,0 +1,26 @@
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.csproj.AssemblyReference.cache
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.AssemblyInfoInputs.cache
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.AssemblyInfo.cs
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.sourcelink.json
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\bin\Debug\net9.0\LinkUp.Core.deps.json
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\bin\Debug\net9.0\LinkUp.Core.dll
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\bin\Debug\net9.0\LinkUp.Core.pdb
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.dll
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\refint\LinkUp.Core.dll
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.pdb
+C:\Users\PC MSI\Visual Studio Code Project\Azure-Project\LinkUp.Core\obj\Debug\net9.0\ref\LinkUp.Core.dll
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\bin\Debug\net9.0\LinkUp.Core.deps.json
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\bin\Debug\net9.0\LinkUp.Core.dll
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\bin\Debug\net9.0\LinkUp.Core.pdb
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.csproj.AssemblyReference.cache
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.AssemblyInfoInputs.cache
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.AssemblyInfo.cs
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.sourcelink.json
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.dll
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\refint\LinkUp.Core.dll
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\LinkUp.Core.pdb
+C:\Users\PC MSI\RiderProjects\4AZUR\LinkUp.Core\obj\Debug\net9.0\ref\LinkUp.Core.dll
