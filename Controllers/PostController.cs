@@ -105,6 +105,7 @@ public async Task<IActionResult> GetUserPosts()
         await _postService.CreatePostAsync(post);
         return CreatedAtAction(nameof(GetPost), new { id = post.Id }, post);
     }
+    
 
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeletePost(Guid id)
